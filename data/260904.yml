@@ -1,0 +1,64 @@
+about:
+  description: Progressive Delivery for Kubernetes
+  license: Apache-2.0
+  homepage: https://argo-rollouts.readthedocs.io/
+  head: 4a222a5
+  archived: false
+  latestVersion: v1.10.0
+  collectedAt: 2026-09-04T05:01:32Z
+timeline:
+  created: 2018-11-17
+  lastCommit: 2026-09-04
+  lastRelease: 2026-08-27
+popularity:
+  star: 3568
+  watcher: 38
+  fork: 1204
+  release: 84
+  contributor: 493
+  pullRequest: 994
+  issue: 1512
+language:
+  Go: 4211056
+  TypeScript: 547093
+  SCSS: 33213
+  Shell: 14720
+  Makefile: 13567
+  JavaScript: 4371
+  Dockerfile: 3727
+  HTML: 479
+  CSS: 22
+totalLine: 4828248
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 20
+    openPR: 25
+    closedIssue: 2
+    openIssue: 6
+    commit: 21
+  last90d:
+    since: 2026-06-06
+    release: 3
+    mergedPR: 102
+    openPR: 56
+    closedIssue: 17
+    openIssue: 29
+    commit: 115
+  last180d:
+    since: 2026-03-08
+    release: 4
+    mergedPR: 148
+    openPR: 73
+    closedIssue: 30
+    openIssue: 52
+    commit: 149
+  last360d:
+    since: 2025-09-09
+    release: 7
+    mergedPR: 223
+    openPR: 91
+    closedIssue: 47
+    openIssue: 85
+    commit: 224
