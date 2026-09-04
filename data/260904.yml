@@ -7,7 +7,7 @@ about:
   head: bdb1496
   archived: false
   latestVersion: v1.10.0
-  collectedAt: 2026-09-04T19:56:16Z
+  collectedAt: 2026-09-04T20:51:07Z
 timeline:
   created: 2018-11-17
   lastCommit: 2026-09-04
@@ -76,18 +76,111 @@ recent:
     since: 2024-09-14
     release: 13
     mergedPR: 470
-    openPR: 120
+    openPR: 119
     closedIssue: 113
     openIssue: 173
     commit: 462
 total:
   release: 84
   mergedPR: 2116
-  openPR: 162
+  openPR: 161
   closedIssue: 1017
   openIssue: 495
   commit: 2251
 ---
+path: /home/runner/.x-repo/github.com/argoproj/argo-rollouts
+collectedAt: 2026-09-04T20:51:14Z
+loc:
+  Go:
+    code: 162914
+    comments: 8854
+    blanks: 15240
+    files: 402
+  Yaml:
+    code: 120784
+    comments: 316
+    blanks: 1962
+    files: 290
+  Json:
+    code: 39090
+    comments: 0
+    blanks: 1
+    files: 8
+  TypeScript:
+    code: 3648
+    comments: 7442
+    blanks: 207
+    files: 15
+  Tsx:
+    code: 3422
+    comments: 26
+    blanks: 336
+    files: 36
+  Sass:
+    code: 1366
+    comments: 5
+    blanks: 222
+    files: 24
+  Protobuf:
+    code: 977
+    comments: 856
+    blanks: 552
+    files: 2
+  Sh:
+    code: 295
+    comments: 54
+    blanks: 94
+    files: 13
+  Makefile:
+    code: 250
+    comments: 31
+    blanks: 70
+    files: 1
+  JavaScript:
+    code: 207
+    comments: 2
+    blanks: 17
+    files: 5
+  Css:
+    code: 163
+    comments: 4
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 47
+    comments: 25
+    blanks: 27
+    files: 1
+  Pan:
+    code: 30
+    comments: 0
+    blanks: 2
+    files: 1
+  Html:
+    code: 22
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 3
+  Markdown:
+    code: 0
+    comments: 9142
+    blanks: 3648
+    files: 135
+  Text:
+    code: 0
+    comments: 48
+    blanks: 7
+    files: 4
+total:
+  code: 339697
+  comments: 27378
+  blanks: 22617
+  files: 944
 ---
 date: "2026-08-24"
 repo:
