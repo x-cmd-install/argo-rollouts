@@ -5,18 +5,18 @@ about:
   head: bdb1496
   archived: false
   latestVersion: "v1.10.0"
-  collectedAt: 2026-09-07T05:03:38Z
+  collectedAt: 2026-09-07T19:27:08Z
 timeline:
   created: 2018-11-17
   lastCommit: 2026-09-04
   lastRelease: 2026-08-27
 popularity:
-  star: 3571
+  star: 3572
   watcher: 38
-  fork: 1208
+  fork: 1210
   release: 84
   contributor: 459
-  pullRequest: 3112
+  pullRequest: 3113
   issue: 1512
 language:
   Go: 4211056
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 19
-    openPR: 23
+    openPR: 24
     closedIssue: 1
     openIssue: 4
     commit: 23
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 79
-    openPR: 50
+    openPR: 51
     closedIssue: 10
     openIssue: 18
     commit: 88
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-09
     release: 3
     mergedPR: 103
-    openPR: 56
+    openPR: 57
     closedIssue: 16
     openIssue: 28
     commit: 113
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-11
     release: 4
     mergedPR: 147
-    openPR: 74
+    openPR: 75
     closedIssue: 30
     openIssue: 52
     commit: 149
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-12
     release: 7
     mergedPR: 224
-    openPR: 91
+    openPR: 92
     closedIssue: 46
     openIssue: 85
     commit: 223
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-17
     release: 13
     mergedPR: 468
-    openPR: 121
+    openPR: 122
     closedIssue: 112
     openIssue: 173
     commit: 462
 total:
   release: 84
   mergedPR: 2116
-  openPR: 164
+  openPR: 165
   closedIssue: 1017
   openIssue: 495
   commit: 2251
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-rollouts
-collectedAt: 2026-09-07T05:04:05Z
+collectedAt: 2026-09-07T19:27:28Z
 loc:
   Go:
     code: 162914
@@ -369,7 +369,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:04:08+00:00
+  collectedAt: 2026-09-07T19:27:29+00:00
   platform:
     darwin/arm64:
       name:  kubectl-argo-rollouts-darwin-arm64
