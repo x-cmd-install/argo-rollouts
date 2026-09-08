@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 504,
       "digest": "sha256:86672e1428ce04e74882a9f2ea6b6213032ac1ec06be171fbe6ab4beb4fb88dd",
-      "download_count": 434,
+      "download_count": 438,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:32:56Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/argo-rollouts-checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24659,
       "digest": "sha256:13d0f290092251794efeec3f1ee6db53661249215b308fc73b13fdcd313e6e70",
-      "download_count": 388,
+      "download_count": 398,
       "created_at": "2026-08-27T15:34:32Z",
       "updated_at": "2026-08-27T15:34:32Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/argo-rollouts.intoto.jsonl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2799,
       "digest": "sha256:669c6e7b04955735915006c10a2c20a9d94c2143234e43b0198007d540b1f5ea",
-      "download_count": 327,
+      "download_count": 330,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:32:56Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/dashboard-install.yaml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3048424,
       "digest": "sha256:ca8a1785391026023627c8a12db5422e227d7a7a6ec7c01f99f7d5b1726ed53c",
-      "download_count": 28185,
+      "download_count": 28530,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:32:56Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/install.yaml"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 145827664,
       "digest": "sha256:1a41cdf72c45eb0bbe6fc6fcaa9529b8372044be33f1cea827487ad8d0bad395",
-      "download_count": 84,
+      "download_count": 85,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:33:17Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-darwin-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 141635843,
       "digest": "sha256:57a464e80c3e716076c9760e1d15ff06b853e3bcab3e22e30f4dba8a3e9f29b2",
-      "download_count": 53168,
+      "download_count": 53506,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:33:01Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-linux-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 134979461,
       "digest": "sha256:2d73e61091084769d16191f21fc686b9c2054892eb93d59046660e8c876a6865",
-      "download_count": 2126,
+      "download_count": 2136,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:33:02Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-linux-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 142977024,
       "digest": "sha256:622e7e02e601fa7e7f16dcf6c5aadae27a9a2882e3a0605aae9841d68a7d7010",
-      "download_count": 78,
+      "download_count": 79,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:33:03Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-windows-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 7629,
       "digest": "sha256:630e0f528f00ee1d83cff21197ec5cc6bb1e57b59abc3e89f80866cf090f953a",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:32:56Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/namespace-install.yaml"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 9644,
       "digest": "sha256:9d5e2517516abf8040f9b9b5fc0f3cecc8a0e576f83b7d265455b328e99cdb81",
-      "download_count": 1720,
+      "download_count": 1724,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:32:56Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/notifications-install.yaml"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3957664,
       "digest": "sha256:30e1d3466345045bf0415d97c45a2bfb2f2970cd7a3dfc6e79a696e8c2eb15e0",
-      "download_count": 71,
+      "download_count": 72,
       "created_at": "2026-08-27T15:32:56Z",
       "updated_at": "2026-08-27T15:32:56Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/rollout_cr_schema.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 75420,
       "digest": "sha256:1221df2dd85234c16fd6f2216c152902e614c1e7de833e050445b96fe5df5cd9",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T15:36:22Z",
       "updated_at": "2026-08-27T15:36:23Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 3352,
       "digest": "sha256:af10e3e63131e7ea00629ca72bbb62214074bf2b35a5c5fbf60548fd980e92ba",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T15:36:22Z",
       "updated_at": "2026-08-27T15:36:23Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.pem"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:5d342ab54d2eb40d19eaefbc028332c299551643fc297956ba37b2b77616de2c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T15:36:22Z",
       "updated_at": "2026-08-27T15:36:23Z",
       "browser_download_url": "https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.sig"

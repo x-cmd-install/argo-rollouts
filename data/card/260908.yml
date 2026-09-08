@@ -5,7 +5,7 @@ about:
   head: bdb1496
   archived: false
   latestVersion: "v1.10.0"
-  collectedAt: 2026-09-08T02:22:48Z
+  collectedAt: 2026-09-08T04:47:57Z
 timeline:
   created: 2018-11-17
   lastCommit: 2026-09-04
@@ -87,7 +87,7 @@ total:
   commit: 2251
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-rollouts
-collectedAt: 2026-09-08T02:23:08Z
+collectedAt: 2026-09-08T04:48:14Z
 loc:
   Go:
     code: 162914
