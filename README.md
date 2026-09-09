@@ -7,7 +7,7 @@ Progressive Delivery for Kubernetes
 - **Latest release**: `v1.10.0` (2026-08-27)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 3572 · **Forks**: 1210 · **Open issues**: 1512 · **Contributors**: 459
+- **Stars**: 3573 · **Forks**: 1210 · **Open issues**: 1513 · **Contributors**: 459
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/argo-rollouts> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:12:43Z._
+_Last regenerated: 2026-09-09T04:59:31Z._
