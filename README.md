@@ -21,25 +21,44 @@ x install argo-rollouts
 ## Release
 
 - **Latest**: `v1.10.0` (2026-08-27)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 15
-- **Published**: 2026-08-27T15:42:04Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [argo-rollouts-checksums.txt](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/argo-rollouts-checksums.txt) | 504 B | `other` |
+| [argo-rollouts.intoto.jsonl](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/argo-rollouts.intoto.jsonl) | 24.1 KiB | `other` |
+| [dashboard-install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/dashboard-install.yaml) | 2.7 KiB | `other` |
+| [install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/install.yaml) | 2.9 MiB | `other` |
+| [kubectl-argo-rollouts-darwin-amd64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-darwin-amd64) | 139.1 MiB | `native/darwin/x64` |
+| [kubectl-argo-rollouts-darwin-arm64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-darwin-arm64) | 133.8 MiB | `native/darwin/arm64` |
+| [kubectl-argo-rollouts-linux-amd64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-linux-amd64) | 135.1 MiB | `native/linux/x64` |
+| [kubectl-argo-rollouts-linux-arm64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-linux-arm64) | 128.7 MiB | `native/linux/arm64` |
+| [kubectl-argo-rollouts-windows-amd64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-windows-amd64) | 136.4 MiB | `native/win/x64` |
+| [namespace-install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/namespace-install.yaml) | 7.5 KiB | `other` |
+| [notifications-install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/notifications-install.yaml) | 9.4 KiB | `other` |
+| [rollout_cr_schema.json](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/rollout_cr_schema.json) | 3.8 MiB | `other` |
+| [sbom.tar.gz](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz) | 73.7 KiB | `native/unknown` |
+| [sbom.tar.gz.pem](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.pem) | 3.3 KiB | `other` |
+| [sbom.tar.gz.sig](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.sig) | 96 B | `other` |
 
 ## Popularity
 
-- **Stars**: 3,574 · **Forks**: 1,212 · **Open issues**: 1,513 · **Contributors**: 462
+- **Stars**: 3,575 · **Forks**: 1,211 · **Open issues**: 1,513 · **Contributors**: 462
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2121 · **Open PRs**: 167 · **Closed issues**: 1018 · **Open issues**: 495 · **Commits**: 2256
+- **Releases**: 84 · **Merged PRs**: 2124 · **Open PRs**: 162 · **Closed issues**: 1018 · **Open issues**: 495 · **Commits**: 2258
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 21 | 24 | 1 | 4 | 28 |
-| 90d | 2026-06-12 | 3 | 105 | 59 | 16 | 25 | 118 |
-| 360d | 2025-09-15 | 7 | 228 | 93 | 46 | 86 | 228 |
+| 30d | 2026-08-11 | 1 | 24 | 20 | 1 | 4 | 30 |
+| 90d | 2026-06-12 | 3 | 108 | 55 | 16 | 25 | 120 |
+| 360d | 2025-09-15 | 7 | 231 | 89 | 46 | 86 | 230 |
 
 ## Code size
 
@@ -68,8 +87,8 @@ Lowest-scoring checks:
 Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `argo-rollouts` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/argo-rollouts.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/argo-rollouts.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:53:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:08Z._

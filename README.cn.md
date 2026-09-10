@@ -4,7 +4,7 @@
 
 Progressive Delivery for Kubernetes
 
-![argo-rollouts](https://repo.x-cmd.io/argo-rollouts.svg)
+![argo-rollouts](https://repo.x-cmd.io/argo-rollouts.svg?lang=zh)
 
 ## 安装
 
@@ -21,25 +21,44 @@ x install argo-rollouts
 ## 发布
 
 - **最新版本**: `v1.10.0` (2026-08-27)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-08-27T15:42:04Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [argo-rollouts-checksums.txt](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/argo-rollouts-checksums.txt) | 504 B | `other` |
+| [argo-rollouts.intoto.jsonl](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/argo-rollouts.intoto.jsonl) | 24.1 KiB | `other` |
+| [dashboard-install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/dashboard-install.yaml) | 2.7 KiB | `other` |
+| [install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/install.yaml) | 2.9 MiB | `other` |
+| [kubectl-argo-rollouts-darwin-amd64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-darwin-amd64) | 139.1 MiB | `native/darwin/x64` |
+| [kubectl-argo-rollouts-darwin-arm64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-darwin-arm64) | 133.8 MiB | `native/darwin/arm64` |
+| [kubectl-argo-rollouts-linux-amd64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-linux-amd64) | 135.1 MiB | `native/linux/x64` |
+| [kubectl-argo-rollouts-linux-arm64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-linux-arm64) | 128.7 MiB | `native/linux/arm64` |
+| [kubectl-argo-rollouts-windows-amd64](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/kubectl-argo-rollouts-windows-amd64) | 136.4 MiB | `native/win/x64` |
+| [namespace-install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/namespace-install.yaml) | 7.5 KiB | `other` |
+| [notifications-install.yaml](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/notifications-install.yaml) | 9.4 KiB | `other` |
+| [rollout_cr_schema.json](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/rollout_cr_schema.json) | 3.8 MiB | `other` |
+| [sbom.tar.gz](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz) | 73.7 KiB | `native/unknown` |
+| [sbom.tar.gz.pem](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.pem) | 3.3 KiB | `other` |
+| [sbom.tar.gz.sig](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.sig) | 96 B | `other` |
 
 ## 流行度
 
-- **Star**: 3,574 · **Fork**: 1,212 · **开放 issue**: 1,513 · **贡献者**: 462
+- **Star**: 3,575 · **Fork**: 1,211 · **开放 issue**: 1,513 · **贡献者**: 462
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 2121 · **开放 PR**: 167 · **已关闭 issue**: 1018 · **开放 issue**: 495 · **提交数**: 2256
+- **发布数**: 84 · **已合并 PR**: 2124 · **开放 PR**: 162 · **已关闭 issue**: 1018 · **开放 issue**: 495 · **提交数**: 2258
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 21 | 24 | 1 | 4 | 28 |
-| 90d | 2026-06-12 | 3 | 105 | 59 | 16 | 25 | 118 |
-| 360d | 2025-09-15 | 7 | 228 | 93 | 46 | 86 | 228 |
+| 30d | 2026-08-11 | 1 | 24 | 20 | 1 | 4 | 30 |
+| 90d | 2026-06-12 | 3 | 108 | 55 | 16 | 25 | 120 |
+| 360d | 2025-09-15 | 7 | 231 | 89 | 46 | 86 | 230 |
 
 ## 代码规模
 
@@ -72,4 +91,4 @@ argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:54:08Z._
