@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.10.0"
   latestRelease: "v1.10.0"
   latestPrerelease: "v1.10.0-rc1"
-  collectedAt: 2026-09-10T16:53:45Z
+  collectedAt: 2026-09-10T21:41:21Z
 timeline:
   created: 2018-11-17
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 2258
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-rollouts
-collectedAt: 2026-09-10T16:54:00Z
+collectedAt: 2026-09-10T21:41:51Z
 loc:
   Go:
     code: 162974
