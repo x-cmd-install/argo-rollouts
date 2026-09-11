@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 24 | 20 | 1 | 4 | 30 |
-| last60d | 2026-07-12 | 2 | 86 | 48 | 10 | 17 | 95 |
-| 90d | 2026-06-12 | 3 | 108 | 55 | 16 | 25 | 120 |
-| last180d | 2026-03-14 | 4 | 152 | 71 | 30 | 51 | 156 |
-| 360d | 2025-09-15 | 7 | 231 | 89 | 46 | 86 | 230 |
-| last720d | 2024-09-20 | 13 | 473 | 119 | 111 | 174 | 464 |
+| 30d | 2026-08-12 | 1 | 24 | 19 | 1 | 3 | 30 |
+| last60d | 2026-07-13 | 2 | 86 | 47 | 8 | 16 | 95 |
+| 90d | 2026-06-13 | 3 | 108 | 55 | 16 | 25 | 120 |
+| last180d | 2026-03-15 | 4 | 151 | 71 | 30 | 51 | 156 |
+| 360d | 2025-09-16 | 7 | 230 | 89 | 46 | 86 | 230 |
+| last720d | 2024-09-21 | 13 | 473 | 119 | 111 | 174 | 464 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:21:44Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:04:30Z._
