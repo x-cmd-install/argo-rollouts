@@ -52,18 +52,18 @@ x install argo-rollouts
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 2125 · **开放 PR**: 159 · **已关闭 issue**: 1019 · **开放 issue**: 494 · **提交数**: 2259
+- **发布数**: 84 · **已合并 PR**: 2125 · **开放 PR**: 161 · **已关闭 issue**: 1019 · **开放 issue**: 494 · **提交数**: 2259
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 24 | 18 | 1 | 1 | 31 |
-| last60d | 2026-07-15 | 2 | 80 | 44 | 8 | 13 | 96 |
-| 90d | 2026-06-15 | 3 | 105 | 52 | 17 | 24 | 121 |
-| last180d | 2026-03-17 | 4 | 150 | 68 | 31 | 49 | 157 |
-| 360d | 2025-09-18 | 7 | 229 | 85 | 44 | 85 | 231 |
-| last720d | 2024-09-23 | 13 | 473 | 116 | 112 | 173 | 465 |
+| 30d | 2026-08-15 | 1 | 24 | 20 | 1 | 1 | 28 |
+| last60d | 2026-07-16 | 2 | 73 | 42 | 8 | 11 | 61 |
+| 90d | 2026-06-16 | 3 | 103 | 54 | 17 | 24 | 111 |
+| last180d | 2026-03-18 | 4 | 149 | 70 | 31 | 49 | 148 |
+| 360d | 2025-09-19 | 7 | 228 | 86 | 44 | 83 | 231 |
+| last720d | 2024-09-24 | 13 | 472 | 118 | 110 | 172 | 465 |
 
 ## Release 资产
 
@@ -85,14 +85,6 @@ x install argo-rollouts
 | [sbom.tar.gz.pem](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.pem) | 3.3 KiB | `other` |
 | [sbom.tar.gz.sig](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.sig) | 96 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/argo-rollouts) 上共有 **7** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.10.0` | ✅ latest |
-
 ## 改进这些数据
 
 argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `argo-rollouts` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -102,4 +94,4 @@ argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:03:08Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:11:44Z._

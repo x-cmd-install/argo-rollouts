@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2125 · **Open PRs**: 159 · **Closed issues**: 1019 · **Open issues**: 494 · **Commits**: 2259
+- **Releases**: 84 · **Merged PRs**: 2125 · **Open PRs**: 161 · **Closed issues**: 1019 · **Open issues**: 494 · **Commits**: 2259
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 24 | 18 | 1 | 1 | 31 |
-| last60d | 2026-07-15 | 2 | 80 | 44 | 8 | 13 | 96 |
-| 90d | 2026-06-15 | 3 | 105 | 52 | 17 | 24 | 121 |
-| last180d | 2026-03-17 | 4 | 150 | 68 | 31 | 49 | 157 |
-| 360d | 2025-09-18 | 7 | 229 | 85 | 44 | 85 | 231 |
-| last720d | 2024-09-23 | 13 | 473 | 116 | 112 | 173 | 465 |
+| 30d | 2026-08-15 | 1 | 24 | 20 | 1 | 1 | 28 |
+| last60d | 2026-07-16 | 2 | 73 | 42 | 8 | 11 | 61 |
+| 90d | 2026-06-16 | 3 | 103 | 54 | 17 | 24 | 111 |
+| last180d | 2026-03-18 | 4 | 149 | 70 | 31 | 49 | 148 |
+| 360d | 2025-09-19 | 7 | 228 | 86 | 44 | 83 | 231 |
+| last720d | 2024-09-24 | 13 | 472 | 118 | 110 | 172 | 465 |
 
 ## Release assets
 
@@ -85,14 +85,6 @@ Lowest-scoring checks:
 | [sbom.tar.gz.pem](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.pem) | 3.3 KiB | `other` |
 | [sbom.tar.gz.sig](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.0/sbom.tar.gz.sig) | 96 B | `other` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/argo-rollouts). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.10.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `argo-rollouts` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:03:07Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:11:42Z._
