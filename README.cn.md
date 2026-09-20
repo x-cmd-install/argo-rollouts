@@ -4,7 +4,7 @@
 
 Progressive Delivery for Kubernetes
 
-![argo-rollouts](https://repo.x-cmd.io/argo-rollouts.svg?lang=zh)
+[![x-cmd/install — argo-rollouts Code Quality Monitoring Repo Card](https://repo.x-cmd.io/argo-rollouts.svg?lang=zh)](https://x-cmd.com/install/argo-rollouts)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install argo-rollouts
 
 ## 流行度
 
-- **Star**: 3,584 · **Fork**: 1,211 · **开放 issue**: 1,514 · **贡献者**: 468
+- **Star**: 3,588 · **Fork**: 1,211 · **开放 issue**: 1,515 · **贡献者**: 469
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 2139 · **开放 PR**: 155 · **已关闭 issue**: 1019 · **开放 issue**: 495 · **提交数**: 2273
+- **发布数**: 84 · **已合并 PR**: 2139 · **开放 PR**: 155 · **已关闭 issue**: 1019 · **开放 issue**: 496 · **提交数**: 2273
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 28 | 21 | 1 | 2 | 42 |
-| last60d | 2026-07-20 | 1 | 65 | 42 | 8 | 10 | 75 |
-| 90d | 2026-06-20 | 3 | 109 | 57 | 17 | 25 | 125 |
-| last180d | 2026-03-22 | 3 | 152 | 71 | 31 | 49 | 162 |
-| 360d | 2025-09-23 | 7 | 234 | 85 | 44 | 84 | 245 |
-| last720d | 2024-09-28 | 13 | 477 | 117 | 110 | 171 | 473 |
+| 30d | 2026-08-21 | 1 | 26 | 21 | 1 | 3 | 42 |
+| last60d | 2026-07-22 | 1 | 54 | 41 | 5 | 11 | 75 |
+| 90d | 2026-06-22 | 3 | 109 | 57 | 17 | 26 | 125 |
+| last180d | 2026-03-24 | 3 | 152 | 71 | 30 | 50 | 162 |
+| 360d | 2025-09-25 | 7 | 233 | 85 | 44 | 84 | 245 |
+| last720d | 2024-09-30 | 13 | 476 | 117 | 110 | 172 | 473 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:04:39Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:18:11Z._

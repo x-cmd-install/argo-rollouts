@@ -4,7 +4,7 @@
 
 Progressive Delivery for Kubernetes
 
-![argo-rollouts](https://repo.x-cmd.io/argo-rollouts.svg)
+[![x-cmd/install — argo-rollouts Code Quality Monitoring Repo Card](https://repo.x-cmd.io/argo-rollouts.svg)](https://x-cmd.com/install/argo-rollouts)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,584 · **Forks**: 1,211 · **Open issues**: 1,514 · **Contributors**: 468
+- **Stars**: 3,588 · **Forks**: 1,211 · **Open issues**: 1,515 · **Contributors**: 469
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2139 · **Open PRs**: 155 · **Closed issues**: 1019 · **Open issues**: 495 · **Commits**: 2273
+- **Releases**: 84 · **Merged PRs**: 2139 · **Open PRs**: 155 · **Closed issues**: 1019 · **Open issues**: 496 · **Commits**: 2273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 28 | 21 | 1 | 2 | 42 |
-| last60d | 2026-07-20 | 1 | 65 | 42 | 8 | 10 | 75 |
-| 90d | 2026-06-20 | 3 | 109 | 57 | 17 | 25 | 125 |
-| last180d | 2026-03-22 | 3 | 152 | 71 | 31 | 49 | 162 |
-| 360d | 2025-09-23 | 7 | 234 | 85 | 44 | 84 | 245 |
-| last720d | 2024-09-28 | 13 | 477 | 117 | 110 | 171 | 473 |
+| 30d | 2026-08-21 | 1 | 26 | 21 | 1 | 3 | 42 |
+| last60d | 2026-07-22 | 1 | 54 | 41 | 5 | 11 | 75 |
+| 90d | 2026-06-22 | 3 | 109 | 57 | 17 | 26 | 125 |
+| last180d | 2026-03-24 | 3 | 152 | 71 | 30 | 50 | 162 |
+| 360d | 2025-09-25 | 7 | 233 | 85 | 44 | 84 | 245 |
+| last720d | 2024-09-30 | 13 | 476 | 117 | 110 | 172 | 473 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:04:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:18:10Z._
