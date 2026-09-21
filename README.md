@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2139 · **Open PRs**: 155 · **Closed issues**: 1019 · **Open issues**: 496 · **Commits**: 2273
+- **Releases**: 84 · **Merged PRs**: 2139 · **Open PRs**: 157 · **Closed issues**: 1019 · **Open issues**: 496 · **Commits**: 2273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 26 | 21 | 1 | 3 | 42 |
-| last60d | 2026-07-22 | 1 | 54 | 41 | 5 | 11 | 75 |
-| 90d | 2026-06-22 | 3 | 109 | 57 | 17 | 26 | 125 |
-| last180d | 2026-03-24 | 3 | 152 | 71 | 30 | 50 | 162 |
-| 360d | 2025-09-25 | 7 | 233 | 85 | 44 | 84 | 245 |
-| last720d | 2024-09-30 | 13 | 476 | 117 | 110 | 172 | 473 |
+| 30d | 2026-08-22 | 1 | 26 | 23 | 1 | 3 | 37 |
+| last60d | 2026-07-23 | 1 | 50 | 42 | 5 | 11 | 56 |
+| 90d | 2026-06-23 | 3 | 109 | 59 | 17 | 26 | 118 |
+| last180d | 2026-03-25 | 3 | 151 | 73 | 30 | 50 | 160 |
+| 360d | 2025-09-26 | 7 | 233 | 87 | 44 | 84 | 241 |
+| last720d | 2024-10-01 | 13 | 475 | 119 | 110 | 171 | 473 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:18:10Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:09:03Z._
