@@ -4,7 +4,7 @@
 
 Progressive Delivery for Kubernetes
 
-[![x-cmd/install — argo-rollouts Code Quality Monitoring Repo Card](https://repo.x-cmd.io/argo-rollouts.svg?lang=zh)](https://x-cmd.com/install/argo-rollouts)
+[![x-cmd/install — argo-rollouts Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/argo-rollouts.svg?lang=zh)](https://x-cmd.com/install/argo-rollouts)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install argo-rollouts
 
 ## 代码洞察
 
-合计: **334,211** 行代码（覆盖前 5 种语言、共 **751** 个文件）。
+合计: **334,230** 行代码（覆盖前 5 种语言、共 **751** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 163,616 | 8,895 | 15,281 | 402 |
+| Go | 163,635 | 8,914 | 15,282 | 402 |
 | Yaml | 120,938 | 316 | 1,962 | 290 |
 | Json | 39,200 | 0 | 1 | 8 |
 | TypeScript | 3,653 | 7,462 | 207 | 15 |
@@ -43,27 +43,27 @@ x install argo-rollouts
 ## 发布
 
 - **最新版本**: `v1.10.0` (2026-08-27)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 3,588 · **Fork**: 1,211 · **开放 issue**: 1,516 · **贡献者**: 469
+- **Star**: 3,588 · **Fork**: 1,212 · **开放 issue**: 1,516 · **贡献者**: 469
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 2143 · **开放 PR**: 155 · **已关闭 issue**: 1019 · **开放 issue**: 497 · **提交数**: 2277
+- **发布数**: 84 · **已合并 PR**: 2145 · **开放 PR**: 153 · **已关闭 issue**: 1020 · **开放 issue**: 496 · **提交数**: 2279
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 30 | 21 | 1 | 4 | 41 |
-| last60d | 2026-07-24 | 1 | 52 | 40 | 5 | 12 | 60 |
-| 90d | 2026-06-24 | 3 | 113 | 57 | 16 | 26 | 122 |
-| last180d | 2026-03-26 | 3 | 154 | 71 | 30 | 50 | 164 |
-| 360d | 2025-09-27 | 7 | 237 | 85 | 44 | 85 | 245 |
-| last720d | 2024-10-02 | 13 | 478 | 117 | 110 | 172 | 475 |
+| 30d | 2026-08-24 | 1 | 32 | 18 | 2 | 3 | 43 |
+| last60d | 2026-07-25 | 1 | 54 | 37 | 6 | 11 | 62 |
+| 90d | 2026-06-25 | 3 | 113 | 55 | 17 | 24 | 124 |
+| last180d | 2026-03-27 | 3 | 154 | 69 | 31 | 49 | 166 |
+| 360d | 2025-09-28 | 7 | 239 | 83 | 45 | 84 | 247 |
+| last720d | 2024-10-03 | 13 | 479 | 115 | 111 | 171 | 477 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:08:41Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:11:52Z._

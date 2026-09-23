@@ -4,7 +4,7 @@
 
 Progressive Delivery for Kubernetes
 
-[![x-cmd/install — argo-rollouts Code Quality Monitoring Repo Card](https://repo.x-cmd.io/argo-rollouts.svg)](https://x-cmd.com/install/argo-rollouts)
+[![x-cmd/install — argo-rollouts Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/argo-rollouts.svg)](https://x-cmd.com/install/argo-rollouts)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install argo-rollouts
 
 ## Code insight
 
-Total: **334,211** lines of code across **751** files in the top 5 languages.
+Total: **334,230** lines of code across **751** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 163,616 | 8,895 | 15,281 | 402 |
+| Go | 163,635 | 8,914 | 15,282 | 402 |
 | Yaml | 120,938 | 316 | 1,962 | 290 |
 | Json | 39,200 | 0 | 1 | 8 |
 | TypeScript | 3,653 | 7,462 | 207 | 15 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.10.0` (2026-08-27)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,588 · **Forks**: 1,211 · **Open issues**: 1,516 · **Contributors**: 469
+- **Stars**: 3,588 · **Forks**: 1,212 · **Open issues**: 1,516 · **Contributors**: 469
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2143 · **Open PRs**: 155 · **Closed issues**: 1019 · **Open issues**: 497 · **Commits**: 2277
+- **Releases**: 84 · **Merged PRs**: 2145 · **Open PRs**: 153 · **Closed issues**: 1020 · **Open issues**: 496 · **Commits**: 2279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 30 | 21 | 1 | 4 | 41 |
-| last60d | 2026-07-24 | 1 | 52 | 40 | 5 | 12 | 60 |
-| 90d | 2026-06-24 | 3 | 113 | 57 | 16 | 26 | 122 |
-| last180d | 2026-03-26 | 3 | 154 | 71 | 30 | 50 | 164 |
-| 360d | 2025-09-27 | 7 | 237 | 85 | 44 | 85 | 245 |
-| last720d | 2024-10-02 | 13 | 478 | 117 | 110 | 172 | 475 |
+| 30d | 2026-08-24 | 1 | 32 | 18 | 2 | 3 | 43 |
+| last60d | 2026-07-25 | 1 | 54 | 37 | 6 | 11 | 62 |
+| 90d | 2026-06-25 | 3 | 113 | 55 | 17 | 24 | 124 |
+| last180d | 2026-03-27 | 3 | 154 | 69 | 31 | 49 | 166 |
+| 360d | 2025-09-28 | 7 | 239 | 83 | 45 | 84 | 247 |
+| last720d | 2024-10-03 | 13 | 479 | 115 | 111 | 171 | 477 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:41Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:11:52Z._
