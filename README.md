@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.10.0` (2026-08-27)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-28
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,589 · **Forks**: 1,217 · **Open issues**: 1,519 · **Contributors**: 470
+- **Stars**: 3,589 · **Forks**: 1,216 · **Open issues**: 1,520 · **Contributors**: 471
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2146 · **Open PRs**: 158 · **Closed issues**: 1022 · **Open issues**: 497 · **Commits**: 2280
+- **Releases**: 84 · **Merged PRs**: 2148 · **Open PRs**: 156 · **Closed issues**: 1022 · **Open issues**: 498 · **Commits**: 2282
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 30 | 17 | 2 | 6 | 32 |
-| last60d | 2026-07-30 | 1 | 51 | 35 | 6 | 12 | 55 |
-| 90d | 2026-06-30 | 3 | 108 | 56 | 14 | 24 | 119 |
-| last180d | 2026-04-01 | 3 | 154 | 72 | 32 | 51 | 167 |
-| 360d | 2025-10-03 | 7 | 236 | 88 | 45 | 84 | 246 |
-| last720d | 2024-10-08 | 13 | 473 | 120 | 113 | 170 | 476 |
+| 30d | 2026-08-30 | 0 | 32 | 15 | 2 | 7 | 0 |
+| last60d | 2026-07-31 | 1 | 53 | 34 | 6 | 12 | 0 |
+| 90d | 2026-07-01 | 3 | 110 | 55 | 13 | 25 | 0 |
+| last180d | 2026-04-02 | 3 | 156 | 70 | 32 | 51 | 0 |
+| 360d | 2025-10-04 | 7 | 238 | 86 | 45 | 84 | 0 |
+| last720d | 2024-10-09 | 13 | 473 | 118 | 112 | 171 | 478 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:37:25Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:53:59Z._
