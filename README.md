@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Security-Policy** (3/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,592 · **Forks**: 1,221 · **Open issues**: 1,522 · **Contributors**: 471
+- **Stars**: 3,593 · **Forks**: 1,220 · **Open issues**: 1,522 · **Contributors**: 471
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 22 | 23 | 3 | 7 | 26 |
-| last60d | 2026-08-06 | 1 | 44 | 42 | 4 | 12 | 56 |
-| 90d | 2026-07-07 | 2 | 108 | 65 | 13 | 25 | 122 |
-| last180d | 2026-04-08 | 3 | 154 | 81 | 33 | 51 | 167 |
-| 360d | 2025-10-10 | 7 | 238 | 97 | 45 | 84 | 243 |
-| last720d | 2024-10-15 | 13 | 471 | 128 | 112 | 169 | 475 |
+| 30d | 2026-09-06 | 0 | 22 | 23 | 3 | 7 | 26 |
+| last60d | 2026-08-07 | 1 | 44 | 40 | 4 | 11 | 56 |
+| 90d | 2026-07-08 | 2 | 107 | 65 | 13 | 25 | 122 |
+| last180d | 2026-04-09 | 3 | 154 | 81 | 33 | 51 | 167 |
+| 360d | 2025-10-11 | 7 | 238 | 97 | 45 | 84 | 243 |
+| last720d | 2024-10-16 | 13 | 470 | 128 | 112 | 169 | 474 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:44:57Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:28:13Z._

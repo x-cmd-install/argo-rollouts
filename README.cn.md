@@ -32,7 +32,7 @@ x install argo-rollouts
 
 - **Security-Policy** (3/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install argo-rollouts
 
 ## 流行度
 
-- **Star**: 3,592 · **Fork**: 1,221 · **开放 issue**: 1,522 · **贡献者**: 471
+- **Star**: 3,593 · **Fork**: 1,220 · **开放 issue**: 1,522 · **贡献者**: 471
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install argo-rollouts
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 22 | 23 | 3 | 7 | 26 |
-| last60d | 2026-08-06 | 1 | 44 | 42 | 4 | 12 | 56 |
-| 90d | 2026-07-07 | 2 | 108 | 65 | 13 | 25 | 122 |
-| last180d | 2026-04-08 | 3 | 154 | 81 | 33 | 51 | 167 |
-| 360d | 2025-10-10 | 7 | 238 | 97 | 45 | 84 | 243 |
-| last720d | 2024-10-15 | 13 | 471 | 128 | 112 | 169 | 475 |
+| 30d | 2026-09-06 | 0 | 22 | 23 | 3 | 7 | 26 |
+| last60d | 2026-08-07 | 1 | 44 | 40 | 4 | 11 | 56 |
+| 90d | 2026-07-08 | 2 | 107 | 65 | 13 | 25 | 122 |
+| last180d | 2026-04-09 | 3 | 154 | 81 | 33 | 51 | 167 |
+| 360d | 2025-10-11 | 7 | 238 | 97 | 45 | 84 | 243 |
+| last720d | 2024-10-16 | 13 | 470 | 128 | 112 | 169 | 474 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T05:44:58Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T06:28:13Z._
