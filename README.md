@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.8.5` (2026-10-12)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-17
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,602 · **Forks**: 1,228 · **Open issues**: 1,530 · **Contributors**: 475
+- **Stars**: 3,604 · **Forks**: 1,229 · **Open issues**: 1,531 · **Contributors**: 475
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 2164 · **Open PRs**: 175 · **Closed issues**: 1026 · **Open issues**: 504 · **Commits**: 2295
+- **Releases**: 87 · **Merged PRs**: 2166 · **Open PRs**: 172 · **Closed issues**: 1026 · **Open issues**: 505 · **Commits**: 2297
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 3 | 23 | 36 | 3 | 13 | 22 |
-| last60d | 2026-08-17 | 4 | 52 | 48 | 4 | 15 | 64 |
-| 90d | 2026-07-18 | 4 | 88 | 66 | 11 | 24 | 106 |
-| last180d | 2026-04-19 | 6 | 166 | 89 | 34 | 57 | 177 |
-| 360d | 2025-10-21 | 10 | 244 | 107 | 45 | 89 | 253 |
-| last720d | 2024-10-26 | 16 | 474 | 137 | 113 | 172 | 476 |
+| 30d | 2026-09-17 | 3 | 23 | 32 | 3 | 14 | 24 |
+| last60d | 2026-08-18 | 4 | 53 | 45 | 4 | 16 | 66 |
+| 90d | 2026-07-19 | 4 | 90 | 62 | 11 | 24 | 108 |
+| last180d | 2026-04-20 | 6 | 168 | 86 | 33 | 58 | 179 |
+| 360d | 2025-10-22 | 10 | 246 | 103 | 45 | 88 | 255 |
+| last720d | 2024-10-27 | 16 | 476 | 134 | 113 | 173 | 478 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:38:36Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:36:16Z._
