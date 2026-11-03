@@ -14,11 +14,11 @@ x install argo-rollouts
 
 ## Code insight
 
-Total: **335,214** lines of code across **758** files in the top 5 languages.
+Total: **335,224** lines of code across **758** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 164,396 | 8,977 | 15,365 | 404 |
+| Go | 164,406 | 8,979 | 15,366 | 404 |
 | Yaml | 121,055 | 320 | 1,962 | 291 |
 | Json | 39,220 | 0 | 1 | 8 |
 | TypeScript | 3,716 | 7,467 | 223 | 19 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.8.5` (2026-10-12)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-02
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,616 · **Forks**: 1,243 · **Open issues**: 1,536 · **Contributors**: 479
+- **Stars**: 3,616 · **Forks**: 1,242 · **Open issues**: 1,536 · **Contributors**: 480
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 2176 · **Open PRs**: 183 · **Closed issues**: 1031 · **Open issues**: 505 · **Commits**: 2307
+- **Releases**: 87 · **Merged PRs**: 2181 · **Open PRs**: 181 · **Closed issues**: 1031 · **Open issues**: 505 · **Commits**: 2312
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 19 | 34 | 0 | 14 | 21 |
-| last60d | 2026-09-03 | 3 | 47 | 49 | 4 | 20 | 53 |
-| 90d | 2026-08-04 | 4 | 72 | 67 | 6 | 26 | 79 |
-| last180d | 2026-05-06 | 6 | 168 | 96 | 30 | 59 | 179 |
-| 360d | 2025-11-07 | 10 | 245 | 115 | 45 | 90 | 240 |
-| last720d | 2024-11-12 | 16 | 475 | 144 | 112 | 173 | 475 |
+| 30d | 2026-10-04 | 3 | 24 | 30 | 0 | 14 | 26 |
+| last60d | 2026-09-04 | 3 | 50 | 47 | 4 | 20 | 58 |
+| 90d | 2026-08-05 | 4 | 75 | 65 | 6 | 26 | 84 |
+| last180d | 2026-05-07 | 6 | 173 | 94 | 30 | 59 | 184 |
+| 360d | 2025-11-08 | 10 | 249 | 113 | 45 | 90 | 245 |
+| last720d | 2024-11-13 | 16 | 480 | 142 | 112 | 172 | 480 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:18:28Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:57:00Z._
