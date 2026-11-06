@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.10.2` (2026-11-04)
-- **Last commit**: 2026-11-04
+- **Latest**: `v1.11.0-rc1` (2026-11-04)
+- **Last commit**: 2026-11-05
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,616 · **Forks**: 1,243 · **Open issues**: 1,537 · **Contributors**: 482
+- **Stars**: 3,617 · **Forks**: 1,244 · **Open issues**: 1,537 · **Contributors**: 482
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 2192 · **Open PRs**: 173 · **Closed issues**: 1031 · **Open issues**: 506 · **Commits**: 2318
+- **Releases**: 90 · **Merged PRs**: 2193 · **Open PRs**: 173 · **Closed issues**: 1033 · **Open issues**: 504 · **Commits**: 2319
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 5 | 32 | 27 | 0 | 14 | 32 |
-| last60d | 2026-09-06 | 5 | 60 | 39 | 4 | 21 | 64 |
-| 90d | 2026-08-07 | 6 | 82 | 56 | 5 | 25 | 90 |
-| last180d | 2026-05-09 | 8 | 184 | 87 | 29 | 60 | 190 |
-| 360d | 2025-11-10 | 11 | 257 | 106 | 45 | 91 | 251 |
-| last720d | 2024-11-15 | 18 | 488 | 134 | 111 | 170 | 480 |
+| 30d | 2026-10-07 | 6 | 33 | 27 | 0 | 13 | 33 |
+| last60d | 2026-09-07 | 6 | 61 | 40 | 4 | 21 | 65 |
+| 90d | 2026-08-08 | 7 | 83 | 56 | 5 | 25 | 91 |
+| last180d | 2026-05-10 | 9 | 184 | 87 | 29 | 60 | 191 |
+| 360d | 2025-11-11 | 12 | 258 | 106 | 44 | 89 | 252 |
+| last720d | 2024-11-16 | 19 | 489 | 134 | 111 | 170 | 481 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:50:39Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:52:57Z._
