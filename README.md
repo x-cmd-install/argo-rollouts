@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 2193 · **Open PRs**: 176 · **Closed issues**: 1033 · **Open issues**: 504 · **Commits**: 2319
+- **Releases**: 90 · **Merged PRs**: 2193 · **Open PRs**: 177 · **Closed issues**: 1033 · **Open issues**: 504 · **Commits**: 2319
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 6 | 32 | 30 | 0 | 13 | 33 |
-| last60d | 2026-09-08 | 6 | 58 | 43 | 3 | 21 | 65 |
-| 90d | 2026-08-09 | 7 | 83 | 59 | 5 | 25 | 91 |
-| last180d | 2026-05-11 | 9 | 184 | 90 | 29 | 60 | 191 |
-| 360d | 2025-11-12 | 12 | 258 | 109 | 44 | 88 | 252 |
-| last720d | 2024-11-17 | 19 | 489 | 137 | 111 | 170 | 481 |
+| 30d | 2026-10-09 | 6 | 32 | 31 | 0 | 13 | 24 |
+| last60d | 2026-09-09 | 6 | 54 | 44 | 3 | 21 | 52 |
+| 90d | 2026-08-10 | 7 | 82 | 58 | 5 | 25 | 90 |
+| last180d | 2026-05-12 | 9 | 184 | 91 | 29 | 60 | 191 |
+| 360d | 2025-11-13 | 12 | 258 | 109 | 43 | 88 | 251 |
+| last720d | 2024-11-18 | 19 | 489 | 138 | 111 | 170 | 481 |
 
 ## Release assets
 
@@ -91,7 +91,7 @@ Reported by **7** distros on [repology.org](https://repology.org/project/argo-ro
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.10.1` | ✅ latest |
+| Nix unstable | `1.10.2` | ✅ latest |
 
 ## Improve this data
 
@@ -102,4 +102,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:08:42Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:10:03Z._
