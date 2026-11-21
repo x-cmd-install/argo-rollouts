@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.11.0-rc1` (2026-11-04)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-20
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,627 · **Forks**: 1,255 · **Open issues**: 1,542 · **Contributors**: 485
+- **Stars**: 3,626 · **Forks**: 1,256 · **Open issues**: 1,542 · **Contributors**: 486
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 2203 · **Open PRs**: 194 · **Closed issues**: 1035 · **Open issues**: 507 · **Commits**: 2329
+- **Releases**: 90 · **Merged PRs**: 2204 · **Open PRs**: 195 · **Closed issues**: 1035 · **Open issues**: 507 · **Commits**: 2330
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 3 | 29 | 38 | 2 | 9 | 31 |
-| last60d | 2026-09-21 | 6 | 53 | 61 | 4 | 23 | 50 |
-| 90d | 2026-08-22 | 7 | 86 | 73 | 6 | 25 | 98 |
-| last180d | 2026-05-24 | 9 | 193 | 106 | 30 | 60 | 200 |
-| 360d | 2025-11-25 | 12 | 262 | 126 | 44 | 86 | 256 |
-| last720d | 2024-11-30 | 19 | 493 | 154 | 110 | 173 | 491 |
+| 30d | 2026-10-22 | 3 | 29 | 39 | 2 | 9 | 32 |
+| last60d | 2026-09-22 | 6 | 53 | 62 | 4 | 23 | 51 |
+| 90d | 2026-08-23 | 7 | 87 | 74 | 6 | 25 | 99 |
+| last180d | 2026-05-25 | 9 | 192 | 107 | 28 | 60 | 201 |
+| 360d | 2025-11-26 | 12 | 263 | 127 | 44 | 86 | 257 |
+| last720d | 2024-12-01 | 19 | 493 | 155 | 109 | 173 | 492 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:38:47Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:17:21Z._
