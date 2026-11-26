@@ -48,22 +48,22 @@ x install argo-rollouts
 
 ## 流行度
 
-- **Star**: 3,628 · **Fork**: 1,261 · **开放 issue**: 1,545 · **贡献者**: 489
+- **Star**: 3,628 · **Fork**: 1,263 · **开放 issue**: 1,545 · **贡献者**: 489
 
 ## 累计统计
 
-- **发布数**: 90 · **已合并 PR**: 2209 · **开放 PR**: 196 · **已关闭 issue**: 1038 · **开放 issue**: 507 · **提交数**: 2334
+- **发布数**: 90 · **已合并 PR**: 2209 · **开放 PR**: 200 · **已关闭 issue**: 1038 · **开放 issue**: 507 · **提交数**: 2334
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 30 | 40 | 2 | 9 | 31 |
-| last60d | 2026-09-26 | 6 | 56 | 63 | 3 | 25 | 52 |
-| 90d | 2026-08-27 | 7 | 89 | 73 | 6 | 28 | 98 |
-| last180d | 2026-05-29 | 9 | 193 | 105 | 25 | 55 | 204 |
-| 360d | 2025-11-30 | 11 | 267 | 128 | 46 | 87 | 261 |
-| last720d | 2024-12-05 | 19 | 493 | 156 | 108 | 170 | 486 |
+| 30d | 2026-10-27 | 3 | 29 | 43 | 2 | 9 | 31 |
+| last60d | 2026-09-27 | 6 | 56 | 67 | 3 | 25 | 52 |
+| 90d | 2026-08-28 | 6 | 89 | 75 | 6 | 28 | 98 |
+| last180d | 2026-05-30 | 9 | 193 | 109 | 25 | 55 | 204 |
+| 360d | 2025-12-01 | 11 | 267 | 132 | 46 | 87 | 261 |
+| last720d | 2024-12-06 | 19 | 490 | 160 | 107 | 170 | 480 |
 
 ## Release 资产
 
@@ -85,6 +85,14 @@ x install argo-rollouts
 | [sbom.tar.gz.pem](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.2/sbom.tar.gz.pem) | 3.2 KiB | `other` |
 | [sbom.tar.gz.sig](https://github.com/argoproj/argo-rollouts/releases/download/v1.10.2/sbom.tar.gz.sig) | 96 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/argo-rollouts) 上共有 **7** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `1.10.2` | ✅ latest |
+
 ## 改进这些数据
 
 argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `argo-rollouts` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +102,4 @@ argo-rollouts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:56:44Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:59:48Z._
