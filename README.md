@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.11.0-rc1` (2026-11-04)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,628 · **Forks**: 1,263 · **Open issues**: 1,545 · **Contributors**: 489
+- **Stars**: 3,629 · **Forks**: 1,264 · **Open issues**: 1,545 · **Contributors**: 489
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 2209 · **Open PRs**: 200 · **Closed issues**: 1038 · **Open issues**: 507 · **Commits**: 2334
+- **Releases**: 90 · **Merged PRs**: 2210 · **Open PRs**: 199 · **Closed issues**: 1038 · **Open issues**: 507 · **Commits**: 2335
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 29 | 40 | 2 | 8 | 31 |
-| last60d | 2026-09-28 | 6 | 53 | 66 | 3 | 24 | 52 |
-| 90d | 2026-08-29 | 6 | 88 | 75 | 6 | 28 | 98 |
-| last180d | 2026-05-31 | 9 | 193 | 109 | 25 | 55 | 204 |
-| 360d | 2025-12-02 | 11 | 267 | 132 | 46 | 87 | 261 |
-| last720d | 2024-12-07 | 19 | 490 | 160 | 107 | 170 | 475 |
+| 30d | 2026-10-29 | 3 | 29 | 39 | 2 | 8 | 0 |
+| last60d | 2026-09-29 | 6 | 54 | 66 | 2 | 23 | 0 |
+| 90d | 2026-08-30 | 6 | 89 | 74 | 6 | 28 | 0 |
+| last180d | 2026-06-01 | 9 | 193 | 109 | 25 | 55 | 0 |
+| 360d | 2025-12-03 | 11 | 268 | 132 | 46 | 87 | 0 |
+| last720d | 2024-12-08 | 19 | 491 | 159 | 106 | 170 | 475 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for argo-rollouts lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:48:54Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:28:58Z._
